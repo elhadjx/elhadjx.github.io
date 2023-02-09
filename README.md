@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/elhadjx">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Backend+Developer;BSc+in+Computer+Science;Node.js+%7C+Express.js" /></a>
 </p>
 
@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/elhadjx"><img width="32px" alt="buymeacoffee" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
 - 🔭 I’m currently working on [**NFT Pic Generator**](https://github.com/elhadjx/nftpicgen)
